@@ -1,0 +1,3 @@
+To access the data, go to this website: https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html. For the dataset, scroll down until you see a zip file that is named "Align&Cropped Images". You will then want to use some pictures that you have taken of yourself or a particular individual/group of individuals. You will need to run your selected photos through an indicated chunk of code to make them the same size as the photos in the celebrity dataset. Add the data to your Google Drive. These files should be put into My Drive.
+
+For the attributes we used in the EDA, scroll until you see the txt file that is named "Attributes Annotations". Once it directs you to a Google Drive, click on the "Anno" folder and then click on the "list_attr_celeba.txt" file to download.
