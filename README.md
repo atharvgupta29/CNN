@@ -17,6 +17,25 @@ Repository Structure
 ├── CS3Rubric.md
 ├── CS3_Hook.md
 
+Repository Structure
+
+├── Data
+│   └── Data Instructions.md
+│
+├── Supplemental Scripts
+│   ├── CNN_source1.pdf
+│   └── CNN_source2.pdf
+│
+├── README.md
+│
+├── Scripts
+│   └── Facial Recognition (1).ipynb
+│
+├── CS3Rubric.md
+│
+└── CS3_Hook.md
+
+
 
 ## 1. Download Celebrity Dataset
 Go to the data instructions file in the data folder. It explains how to download the celebrity dataset and where to get it.
