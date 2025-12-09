@@ -18,12 +18,12 @@ Repository Structure
 ├── CS3_Hook.md
 
 
+## 1. Download Celebrity Dataset
+Go to the data instructions file in the data folder. It explains how to download the celebrity dataset and where to get it.
+After you download the dataset, upload the entire folder to your Google Drive.
 
-├── Data
-│   ├── Data.md
-├── LICENSE
-├── Output
-│   ├── Output.md
-├── README.md
-├── Scripts
-│   ├── Facial Recognition.ipynb
+## 2. Collect Group Member Images
+Gather 25 pictures of each group member.
+Upload these pictures to a separate folder in your Google Drive.
+Make sure the photos show the face clearly and are not blurry.
+
