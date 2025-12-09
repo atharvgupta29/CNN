@@ -5,6 +5,7 @@ Welcome to the Facial Recognition Case Study. In this project you will build a c
 
 
 Repository Structure
+
 ├── Data
 │   ├── Data Instructions.md
 ├── Supplemental Scripts
